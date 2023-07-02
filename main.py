@@ -1,4 +1,3 @@
-import qrcode as qr
 from email.message import EmailMessage
 import pandas as pd
 import ssl
